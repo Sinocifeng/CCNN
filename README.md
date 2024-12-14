@@ -1,3 +1,3 @@
 ## CCNN :  Concept-cognitive Neural Network
 
-Please waite to be updated!
+We expect to update the repository code by the end of January 2025
